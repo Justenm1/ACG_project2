@@ -1,0 +1,50 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Application.cpp
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (18,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (20,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (25,10): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (47,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (48,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (49,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../../../../Project%20#1/ray_tracer_kent/RayTracer_Framework/Application.cpp')
+  
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (51,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (63,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (79,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (31,8): warning C4101: 'dummy': unreferenced local variable
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (32,10): warning C4101: 'j': unreferenced local variable
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (32,8): warning C4101: 'i': unreferenced local variable
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (121,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (101,9): warning C4101: 'imageType': unreferenced local variable
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (102,8): warning C4101: 'dummy': unreferenced local variable
+C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project (101,22): warning C4101: 'str': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Scene.cpp
+  Wall.cpp
+  Sphere.cpp
+  Ray_Tracer.cpp
+  Main.cpp
+  RayTracer.vcxproj -> C:\Users\juste\OneDrive\Desktop\School\Fall 2024\Advanced Comptuer graphics\Project #1\ray_tracer_kent\RayTracer_Framework\Debug\RayTracer.exe
